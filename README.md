@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;I+automate+business+with+n8n;Build+Telegram+bots+%26+workflows;3%2B+years+in+automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;I+automate+business+with+n8n;Build+Telegram+bots+%26+workflows;3%2B+years+in+automation)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,81 +57,33 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achupurygin-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&icon_color=3F8EFC&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=achupurygin-cpu&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8EFC&fire=FF6D5A&currStreakLabel=3F8EFC" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achupurygin-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8EFC&text_color=C9D1D9" alt="Top Languages" height="170"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achupurygin-cpu/achupurygin-cpu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achupurygin-cpu/achupurygin-cpu/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/achupurygin-cpu/achupurygin-cpu/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 🛒 E-commerce Telegram Bot
-Advanced bot with YuKassa payment integration, product catalog, order management, and admin panel.  
-**Stack:** n8n, PostgreSQL, Telegram API, YuKassa
-
-### 🔮 Tarot Reading Bot
-Multi-stage tarot reading system with automated interpretations and user history tracking.  
-**Stack:** n8n, PostgreSQL, OpenAI API, Telegram
-
-### 🌐 Business Automation Platform
-Custom workflows for CRM integration, email automation, and data synchronization.  
-**Stack:** n8n, Supabase, Multiple APIs
-
----
-
-## 📫 Let's Connect
+## 💎 Professional Focus
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-@quirkyranger-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quirkyranger)
-[![Email](https://img.shields.io/badge/Email-fignetic@inbox.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fignetic@inbox.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-achupurygin--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achupurygin-cpu)
+### _"Automation is not just code, it's art"_
 
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60px" alt="Experience"/>
+<h3>3+ Years</h3>
+<p>In Automation<br/>& Development</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60px" alt="Projects"/>
+<h3>50+ Projects</h3>
+<p>Delivered<br/>Successfully</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="60px" alt="Workflows"/>
+<h3>100+ Workflows</h3>
+<p>Built with<br/>n8n</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 💡 Current Focus
+**🎯 Services I Provide**
 
-**🎯 Role:** Founder & Lead Developer at Fignetic Studio  
-**📍 Location:** Russia  
-**💻 Specialization:** n8n Automation • Telegram Bots • API Integration  
-**📚 Currently Learning:** Advanced n8n patterns • AI API integrations  
-**⚡ Fun Fact:** I automate everything that can be automated!
-
-**🛠️ Tech Stack:**
-- Languages: JavaScript • Python • SQL • HTML/CSS
-- Automation: n8n workflows • Telegram Bot API
-- Databases: PostgreSQL • Supabase
-- Integrations: Payment systems • AI APIs • CRM systems
-
----
-
-<div align="center">
-  
-### 🔥 **"Automation is not just code, it's art"**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=achupurygin-cpu&color=3F8EFC&style=for-the-badge)](https://github.com/achupurygin-cpu)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
