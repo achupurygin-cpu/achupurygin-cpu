@@ -87,3 +87,68 @@
 
 **🎯 Services I Provide**
 
+n8n Automation • Telegram Bots • AI Integration • Web Development
+
+**🔥 Current Stack**  
+PostgreSQL • Supabase • OpenRouter • Yandex GPT • DeepSeek • YuKassa
+
+**📍 Location:** St. Petersburg, Russia  
+**💼 Company:** Fignetic Studio (Founder)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 E-commerce Telegram Bot
+Advanced bot with YuKassa payment integration, product catalog, order management, and admin panel.  
+**Stack:** n8n, PostgreSQL, Telegram API, YuKassa
+
+### 🔮 Tarot Reading Bot
+Multi-stage tarot reading system with automated interpretations and user history tracking.  
+**Stack:** n8n, PostgreSQL, OpenAI API, Telegram
+
+### 🌐 Business Automation Platform
+Custom workflows for CRM integration, email automation, and data synchronization.  
+**Stack:** n8n, Supabase, Multiple APIs
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-@quirkyranger-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quirkyranger)
+[![Email](https://img.shields.io/badge/Email-fignetic@inbox.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fignetic@inbox.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-achupurygin--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achupurygin-cpu)
+
+</div>
+
+---
+
+## 💡 Current Focus
+
+**🎯 Role:** Founder & Lead Developer at Fignetic Studio  
+**📍 Location:** Russia  
+**💻 Specialization:** n8n Automation • Telegram Bots • API Integration  
+**📚 Currently Learning:** Advanced n8n patterns • AI API integrations  
+**⚡ Fun Fact:** I automate everything that can be automated!
+
+**🛠️ Tech Stack:**
+- Languages: JavaScript • Python • SQL • HTML/CSS
+- Automation: n8n workflows • Telegram Bot API
+- Databases: PostgreSQL • Supabase
+- Integrations: Payment systems • AI APIs • CRM systems
+
+---
+
+<div align="center">
+  
+### 🔥 **Building the future, one workflow at a time**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=achupurygin-cpu&color=3F8EFC&style=for-the-badge)](https://github.com/achupurygin-cpu)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
